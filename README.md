@@ -4,6 +4,7 @@ example how to create and use a api-rest on visual studio code with .net core
 # Download, install and configurations (.net core SDK, vs code)
 
 [Download .net core SDK for windows](https://dotnet.microsoft.com/download)
+
 [Download C# complement for vs code](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp)
 
 # Configure the enviroment
